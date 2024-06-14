@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ansh Pandey</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h2 align="center">A passionate Data Scientist from India </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshpandey08&label=Profile%20views&color=0e75b6&style=flat" alt="anshpandey08" /> </p>
+<img align="right" alt="coding" width="400" src="https://indoanalytica.com/static/images/data-science-4.gif"
 
+
+- 🧑‍🎓 Currently Passed out from **Chandigarh University,2020-2024**
+  
 - 🔭 I’m currently working on **Azure End-to-End Data Engineering project**
 
 - 🌱 I’m currently learning **NLP, MS-Azure , MLops**
 
 - 💬 Ask me about **machine learning tools, frameworks, trends, etc.**
-
-- <img align = "right" alt = "coding" width="400"src="https://indoanalytica.com/static/images/data-science-4.gif"
 
 - 📫 How to reach me **anshpandey8112@gmail.com**
 
