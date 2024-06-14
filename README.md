@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **machine learning tools, frameworks, trends, etc.**
 
+- <img align = "right" alt = "coding" width="400"src="https://indoanalytica.com/static/images/data-science-4.gif"
+
 - 📫 How to reach me **anshpandey8112@gmail.com**
 
 - ⚡ Fun fact **When I’m not coding, you can find me hiking or experimenting with new recipes in the kitchen.**
