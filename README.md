@@ -37,13 +37,25 @@
 
 
 
+<h2 align="left">Statistics:</h2>
+<div class="container" style="display: flex; flex-wrap: wrap; gap: "10px";">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshpandey08&" style=" height= 90%; width=466px;" alt="anshpandey08" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anshpandey08&show_icons=true&locale=en" alt="anshpandey08" style="height: 90%; width: 466px;" />
+
+
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshpandey08&show_icons=true&locale=en&layout=compact" alt="anshpandey08" style="display: block; margin: 0 auto; height: 90%; width: 466px;" />
+</div>
+</div>
+
+
+    
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/anshpandey08"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anshpandey08" /></a></p><br><br>
+ <a href="https://www.buymeacoffee.com/anshpandey08">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anshpandey08" />
+    </a>
+ 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshpandey08&show_icons=true&locale=en&layout=compact" alt="anshpandey08" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshpandey08&show_icons=true&locale=en" alt="anshpandey08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshpandey08&" alt="anshpandey08" /></p>
 
